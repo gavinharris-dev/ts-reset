@@ -311,3 +311,13 @@ console.log(str); // string
 ```
 
 This provides the types you intend and also signals to the developer that this is _slightly_ unsafe.
+
+
+## Deno - Get Started
+Inlcude the following import at the top of your `main.ts` file:
+
+_Always include latest_
+`import https://esm.sh/@total-typescript/ts-reset` 
+
+_Import specified version_
+`import 'https://esm.sh/@total-typescript/ts-reset@0.3.7';`
